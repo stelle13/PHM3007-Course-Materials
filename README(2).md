@@ -1,0 +1,3 @@
+﻿
+
+ This folder contains materials (PPT slides, reports) from the Social and Public Health Pharmacy course taken at Yonsei University's College of Pharmacy in the spring semester of 2025. Social and public health pharmacy is a branch of pharmaceutical studies that examines the societal impact of medicines throughout their entire lifecycle—from development to use—and addresses the social dimensions of pharmaceuticals. During this course, I collaborated with other team members on primary literature review, report writing, and PPT presentations. Below, I am sharing the final report and presentation slides from my assigned team. (Note: The materials are in Korean)
